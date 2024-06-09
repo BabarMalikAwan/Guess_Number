@@ -1,0 +1,90 @@
+body{
+	background-color: grey;
+
+}
+h1{
+	text-style:bold;
+	margin-left:200px;
+}
+
+.between{
+		margin-left:200px;
+        font-weight: bold;
+        font-family: "Times New Roman", Times, serif;
+          font-size: 20px;
+
+
+}
+.message{
+    margin-left:200px;
+        font-weight: bold;
+        font-family: "Times New Roman", Times, serif;
+          font-size: 20px;
+
+
+}
+.label-score{
+    margin-left:200px;
+        font-weight: bold;
+        font-family: "Times New Roman", Times, serif;
+          font-size: 20px;
+
+
+}
+.label-highscore{
+    margin-left:200px;
+        font-weight: bold;
+        font-family: "Times New Roman", Times, serif;
+          font-size: 20px;
+
+
+}
+.btn-again {
+  background-color: #0652DD; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius:10px;
+  transition-duration: 0.4s;
+  margin-left:200px;
+
+
+}
+.btn-check {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius:10px;
+  transition-duration: 0.4s;
+ 
+
+
+}
+input[type=number] {
+  
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-left:200px;
+  box-sizing: border-box;
+  border-radius:10px;
+}
+
+.number {
+  text-align:center;
+  height:50px;
+  width:50px;
+background-color:white;
+  font-size:40px;
+  font-weight:bold;
+  tex-color:black;
+  margin-left:300px;
+}
